@@ -8,7 +8,7 @@ import Tranjactions from "./components/Tranjactions";
 
 const Header = styled(Typography)`
   font-size: 38px;
-  color: grey;
+  color: white;
   text-transform: uppercase;
 `;
 const Component = styled(Box)`
