@@ -7,7 +7,7 @@ import NewTranjactions from "./components/NewTranjactions";
 import Tranjactions from "./components/Tranjactions";
 
 const Header = styled(Typography)`
-  font-size: 36px;
+  font-size: 38px;
   color: grey;
   text-transform: uppercase;
 `;
